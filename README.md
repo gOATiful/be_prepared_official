@@ -1,1 +1,3 @@
-# be_prepared_official
+# Be Prepared
+
+## Privacy Policy
